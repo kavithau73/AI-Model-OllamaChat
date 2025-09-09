@@ -1,0 +1,14 @@
+# Node (frontend)
+gemma-ui/node_modules/
+gemma-ui/build/
+gemma-ui/.env
+
+# Python (backend)
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# IDE & system files
+.vscode/
+.DS_Store
