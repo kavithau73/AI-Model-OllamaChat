@@ -1,3 +1,5 @@
+AI-Model-OllamaChat is a full-stack chat application that allows users to interact with AI models locally using Ollama. The project combines a React frontend (gemma-ui) for a user-friendly chat interface, a FastAPI backend for processing requests, and a local LLM (Gemma/LLaMA) model for AI-generated responses. Users can upload documents, ask questions, and receive intelligent answers in real-time. This project demonstrates integrating modern frontend and backend technologies with local AI models for interactive and responsive AI-powered applications.
+
 # AI-Model-OllamaChat
 # AI Model Chat (Frontend + Backend + Ollama)
 
